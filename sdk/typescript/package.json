@@ -4,13 +4,13 @@
   "description": "OpenCode-powered security CLI and TypeScript SDK",
   "license": "Apache-2.0",
   "author": "OpenCode Security contributors",
-  "homepage": "https://github.com/0xPlayerOne/opencode-security",
+  "homepage": "https://github.com/AndrewM-F/opencode-security",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0xPlayerOne/opencode-security.git",
+    "url": "https://github.com/AndrewM-F/opencode-security.git",
     "directory": "sdk/typescript"
   },
-  "bugs": "https://github.com/0xPlayerOne/opencode-security/issues",
+  "bugs": "https://github.com/AndrewM-F/opencode-security/issues",
   "type": "module",
   "engines": {
     "node": ">=22"

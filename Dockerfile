@@ -22,7 +22,7 @@ FROM node:22-bookworm-slim@sha256:6c74791e557ce11fc957704f6d4fe134a7bc8d6f5ca440
 
 LABEL org.opencontainers.image.title="OpenCode Security" \
       org.opencontainers.image.description="Noninteractive, resumable OpenCode Security CSV repository scans" \
-      org.opencontainers.image.source="https://github.com/0xPlayerOne/opencode-security"
+      org.opencontainers.image.source="https://github.com/AndrewM-F/opencode-security"
 
 RUN apt-get update \
     && apt-get install --no-install-recommends --yes \
